@@ -313,7 +313,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: aede2d63e203d9244bc090d3c36890be, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &46755134 stripped
@@ -710,13 +710,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 42840df4b378e0649ba97b596bf14c23,
+      objectReference: {fileID: 11400000, guid: d47c40d6ada59c44daeb324c91dbed32,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 671bc6dfae17cad45becebc78eb559ec, type: 3}
+      objectReference: {fileID: 8300000, guid: 12b1aff902edf614aba43ff2bfd13a78, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &80798179 stripped
@@ -935,13 +935,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 42840df4b378e0649ba97b596bf14c23,
+      objectReference: {fileID: 11400000, guid: 0fd48cf515972cb4aa98105ac9000fc8,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 671bc6dfae17cad45becebc78eb559ec, type: 3}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &171670227 stripped
@@ -1004,7 +1004,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.392}
+  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1446,13 +1446,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 42840df4b378e0649ba97b596bf14c23,
+      objectReference: {fileID: 11400000, guid: 1fa5ca999b17b824b93dcca967eef816,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 671bc6dfae17cad45becebc78eb559ec, type: 3}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &314363298 stripped
@@ -1582,7 +1582,7 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: e86aad226fee34a4085e23514bb22a42,
+      objectReference: {fileID: 11400000, guid: c8026ddee46f5e34f80f9cd8c081f8d9,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
@@ -1676,7 +1676,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.392}
+  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1821,7 +1821,7 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: e86aad226fee34a4085e23514bb22a42,
+      objectReference: {fileID: 11400000, guid: 85efa1858973e4f45a77b7226962f334,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
@@ -1915,7 +1915,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.392}
+  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1989,9 +1989,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ScaleFactor: 2.1
+  m_ReferenceResolution: {x: 1080, y: 1920}
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
@@ -2454,15 +2454,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
+  m_Color: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 3184844902252697888, guid: 4619fa3c82eead445afc53c005b5784f,
+    type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2631,13 +2632,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: e86aad226fee34a4085e23514bb22a42,
+      objectReference: {fileID: 11400000, guid: 80cdcff01b4a0a44199dd0e5bb002520,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: ea49c49cd0c5fee408e0cedfdfbc3639, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &904671662 stripped
@@ -2767,13 +2768,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 3c41109abddc6794bac48e07e3ab0bc0,
+      objectReference: {fileID: 11400000, guid: 83efc5f1064b7ba4ea12b3b19ab59085,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 5ca60433a22a9004ca0d69c6b42387f8, type: 3}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &928406346 stripped
@@ -3122,13 +3123,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 42840df4b378e0649ba97b596bf14c23,
+      objectReference: {fileID: 11400000, guid: 5676203fd3446eb4cb6e48009f925578,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 671bc6dfae17cad45becebc78eb559ec, type: 3}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &1261050533 stripped
@@ -3384,13 +3385,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 0ae954c8e4b8233449d988d9de9bc58f,
+      objectReference: {fileID: 11400000, guid: 25727fb3ba9694e47ac8e6ff36bdaaa8,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 4883d5f433a84ff44ba42187c7fd5942, type: 3}
+      objectReference: {fileID: 8300000, guid: c6fcb3579a7794e458a54a52d0d665c0, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &1382562500 stripped
@@ -3688,7 +3689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.392}
+  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -3969,13 +3970,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 021acecf9162ee14191e36cd811df36b,
+      objectReference: {fileID: 11400000, guid: 285721e504b519a4daa1579ff4862bdf,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: 18e3c2fec1ccffc4a8cf261db5f78364, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &1616249395 stripped
@@ -4105,13 +4106,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 3c41109abddc6794bac48e07e3ab0bc0,
+      objectReference: {fileID: 11400000, guid: 0ae954c8e4b8233449d988d9de9bc58f,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 5ca60433a22a9004ca0d69c6b42387f8, type: 3}
+      objectReference: {fileID: 8300000, guid: 4883d5f433a84ff44ba42187c7fd5942, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &1689728929 stripped
@@ -4235,7 +4236,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.392}
+  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -4380,13 +4381,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 3c41109abddc6794bac48e07e3ab0bc0,
+      objectReference: {fileID: 11400000, guid: 021acecf9162ee14191e36cd811df36b,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 5ca60433a22a9004ca0d69c6b42387f8, type: 3}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &1718146291 stripped
@@ -4474,7 +4475,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.392}
+  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -4577,7 +4578,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.392}
+  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -4858,13 +4859,13 @@ PrefabInstance:
         type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 3c41109abddc6794bac48e07e3ab0bc0,
+      objectReference: {fileID: 11400000, guid: 49568b4f108b4484581f0bc66e3efefc,
         type: 2}
     - target: {fileID: 4034622250470109083, guid: 6746737c742c030499c93c3716c41ca1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 5ca60433a22a9004ca0d69c6b42387f8, type: 3}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6746737c742c030499c93c3716c41ca1, type: 3}
 --- !u!224 &1957319923 stripped
@@ -4952,7 +4953,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.392}
+  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -5017,7 +5018,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.00008423556}
+  m_AnchoredPosition: {x: 0, y: 0.000032689153}
   m_SizeDelta: {x: 0, y: 711}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &2091464070

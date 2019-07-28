@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0dc323ab797228544bfd647719a59459, type: 3}
-  m_Name: New SoundButton
+  m_Name: Lunette
   m_EditorClassIdentifier: 
-  artwork: {fileID: 0}
+  artwork: {fileID: 21300000, guid: 374546b660102e544a898226cbea9ba8, type: 3}
   sound: {fileID: 0}

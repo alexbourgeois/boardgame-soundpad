@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Indiens
   m_EditorClassIdentifier: 
   artwork: {fileID: 21300000, guid: 7a8ff0c41e240424ba0175161b439c6b, type: 3}
-  sound: {fileID: 8300000, guid: ea49c49cd0c5fee408e0cedfdfbc3639, type: 3}
+  sound: {fileID: 8300000, guid: 4982077bf05eee24782471b695e9bab6, type: 3}

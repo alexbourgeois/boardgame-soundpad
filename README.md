@@ -1,4 +1,4 @@
-# Sounpad for the board game BANG!
+# Soundpad for the board game BANG!
 
 Enhance your BANG! games! This soundpad allows you to play sound effects for each card of the game, some may be lacking but I will add them over time! :)
 <p align="center">

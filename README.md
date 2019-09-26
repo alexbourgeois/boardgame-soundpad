@@ -7,5 +7,5 @@ Enhance your BANG! games! This soundpad allows you to play sound effects for eac
 
 ## Release
 
-It has only be released on Android yet and tested on a few phones. If you encounter any bug or want it on PC, Linux or anywhere else feel free to add an Issue on github.
+It has only be released on Android yet and tested on a few phones (Moto G6 and Galaxy A5). If you encounter any bug or want it on PC, Linux or anywhere else feel free to add an Issue on github.
 
